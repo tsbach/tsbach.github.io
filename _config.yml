@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "tsbach's blog"
 title_separator          : "-"
 name                     : "tsbach"
-description              : "An amazing website."
+description              : "..None.."
 url                      : "https://tsbach.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "tsbach"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : # "I am an amazing person."
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
